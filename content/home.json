@@ -54,7 +54,7 @@
             "title": "Catechism of The Catholic Church",
             "imageUrl": "res:/drawable/feast",
             "order": 8,
-            "enabled": true
+            "enabled": false
         }
     ]
 }
